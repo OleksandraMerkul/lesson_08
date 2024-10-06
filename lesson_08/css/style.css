@@ -1,0 +1,70 @@
+
+@import url(https://fonts.googleapis.com/css?family=DM+Sans:100,200,300,regular,500,600,700,800,900,100italic,200italic,300italic,italic,500italic,600italic,700italic,800italic,900italic);
+@import url(https://fonts.googleapis.com/css?family=Epilogue:100,200,300,regular,500,600,700,800,900,100italic,200italic,300italic,italic,500italic,600italic,700italic,800italic,900italic);
+@import url("reset.css");
+@import url("fonts.css");
+
+.wrapper { height: 100%; 
+/* overflow: hidden;     */
+}    
+h1 {
+   font-size: 27px;
+   margin: 0 auto;
+   text-align: center;
+   padding-left: 160px; vertical-align: bottom;
+   font-family: Epilogue;
+   font-size: 40px;
+   font-weight: 500;
+   color:red;
+   background-color:black;
+}
+
+.block {
+max-width: 2754px;
+font-size: 0 px;
+margin: 0 auto; 
+background-color: gray;}
+
+.container {
+max-width: 1800px;
+text-align: center;
+font-size: 25px;
+padding: 15px;
+background-color:gray;
+line-height: 60px;
+margin: 0 auto;
+padding-left: 160px; vertical-align: bottom;
+font-family: Epilogue;
+font-weight: 500;
+font-style: italic;
+}
+
+.men {width: 1170px;}
+
+.image {width: 800px;}
+ 
+
+.p1 {background: url("../img/play.svg") no-repeat 0 0 /120px; line-height: 100px;}
+.p3 {background: url("../img/Shape.svg") no-repeat 30px 24px, url("../img/Oval.svg") no-repeat 0 0 ;}
+.p2 {background: url("../img/Combined\ Shape.svg")no-repeat 30px 35px, url("../img/Oval.svg") no-repeat 0 0; }
+.p4 {background: url("../img/Shape (2).svg") no-repeat 42px 40px, url("../img/star.svg") no-repeat 0 0/120px ;}
+.p5 {background: url("../img/Bitmap\ \(3\).png") no-repeat 0 50px;}
+.p6 {background: url("../img/Bitmap\ \(4\).png") no-repeat 0 50px;}
+.p9 {background: url("../img/Bitmap\ \(5\).png") no-repeat 0 50px;}
+.p8 {background: url("../img/Bitmap\ \(6\).png") no-repeat 0 50px;}
+.p10 {background: url("../img/Path.svg") no-repeat 0 0/120px;}
+.p11 {background: url("../img/Shape\ \(1\).svg") no-repeat 0 30px;}
+.p12 {background: url("../img/block.svg") no-repeat  -25px 0 /200px;}
+.p13 {background: url("../img/social.svg") no-repeat  0 40px;}
+
+.icons p {
+color: black; text-align: left;
+padding-left: 160px; vertical-align: bottom;
+font-family: Epilogue;
+font-weight: 500;
+font-style: italic;
+line-height: 130px;
+}
+
+h2 {font-size: 40px;
+font-weight: 600;}
